@@ -9,8 +9,8 @@
     <Company>Below Average</Company>
     <Copyright>Dylan Bickerstaff; Below Average (C) 2021</Copyright>
     <Description>Decodes sFlow UDP packets into a managed objects.</Description>
-    <PackageProjectUrl>https://github.com/krisdb2009/sFlowLibrary</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/krisdb2009/sFlowLibrary</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/belowaverage-org/sFlowLibrary</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/belowaverage-org/sFlowLibrary</RepositoryUrl>
     <PackageTags>sFlow, Decode, Decodes, UDP, Packets, Managed, Objects</PackageTags>
     <NeutralLanguage>English (United States)</NeutralLanguage>
     <RepositoryType>GIT</RepositoryType>
